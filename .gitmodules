@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LeafArea"]
+	path = LeafArea
+	url = https://github.com/mattocci27/leafarea
+	shallow = true
+	registered = true
+[submodule "mglmn"]
+	path = mglmn
+	url = https://github.com/mattocci27/mglmn
+	shallow = true
+	registered = true
+[submodule "ztpln"]
+	path = ztpln
+	url = https://github.com/mattocci27/ztpln
+	shallow = true
+	registered = true

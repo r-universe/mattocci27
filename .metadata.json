@@ -1,10 +1,10 @@
 [
   {
-    "package": "mglmn",
+    "package": "LeafArea",
     "oncran": true
   },
   {
-    "package": "LeafArea",
+    "package": "mglmn",
     "oncran": true
   },
   {

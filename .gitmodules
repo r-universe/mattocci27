@@ -5,6 +5,9 @@
 [submodule "LeafArea"]
 	path = LeafArea
 	url = https://github.com/mattocci27/leafarea
+[submodule "calba"]
+	path = calba
+	url = https://github.com/mattocci27/calba
 [submodule "mglmn"]
 	path = mglmn
 	url = https://github.com/mattocci27/mglmn
